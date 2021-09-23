@@ -3,14 +3,13 @@ layout: default
 title: {{ site.name }}
 ---
 
-<div id="home">
-  <h2> Repositorios</h2>
-       <a href="md/pandas.md">Pandas</a>
+> Repositorios
+- [Pandas](md/pandas.md)
   
-  <h2>Contenidos</h2>
+> Contenidos
+
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
