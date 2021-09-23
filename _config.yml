@@ -1,5 +1,6 @@
 # Setup
 title: Cristian Darío Ortega Yubro
+description: Repositorio de cuadernos Google Colab
 
 # About/contact
 author: Cristian Darío Ortega Yubro
@@ -8,3 +9,4 @@ author: Cristian Darío Ortega Yubro
 #Others
 markdown: kramdown
 theme: jekyll-theme-cayman
+show_downloads: false
