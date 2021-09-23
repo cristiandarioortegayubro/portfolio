@@ -3,11 +3,11 @@ layout: default
 title: portfolio
 ---
 
-# Repositorios
+## Repositorios
 
 - [Pandas](md/pandas.md)
   
-# Contenidos
+## Contenidos
 
   <ul class="posts">
     {% for post in site.posts %}
