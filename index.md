@@ -5,8 +5,8 @@ title: portfolio
 
 ## Repositorios
 
-| - [Pandas](md/pandas.md) | - Plotly |
-|--------------------------|----------|
+| [Pandas](md/pandas.md) |
+
   
 ## Contenidos
 
