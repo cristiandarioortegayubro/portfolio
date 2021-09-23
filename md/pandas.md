@@ -1,6 +1,6 @@
 ---
-layout: page
-title:  "Pandas"
+layout: repositorio
+title: "Pandas"
 ---
 
 [Volver al Inicio](../index.md)
