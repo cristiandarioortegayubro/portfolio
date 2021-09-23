@@ -1,21 +1,10 @@
 # Setup
-title:        Cristian Darío Ortega Yubro
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
-theme:        jekyll-theme-cayman
+title: Cristian Darío Ortega Yubro
 
 # About/contact
-author:
-  name:       Cristian Darío Ortega Yubro
-  url:        https://cristiandarioortegayubro.github.io 
-
-# Gems
-gems:
-  - jekyll-paginate
+author: Cristian Darío Ortega Yubro
+  name: Cristian Darío Ortega Yubro
 
 #Others
 markdown: kramdown
-
 theme: jekyll-theme-cayman
