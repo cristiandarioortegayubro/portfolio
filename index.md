@@ -8,7 +8,6 @@ title: portfolio
 | [Pandas](md/pandas.md) | [Visualizaciones](md/visualizacion.md) |
 
   
-## Contenidos
 
   <ul class="posts">
     {% for post in site.posts %}
